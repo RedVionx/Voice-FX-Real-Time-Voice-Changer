@@ -1,0 +1,7 @@
+{
+  "name": "Voice FX - Real-time Voice Changer",
+  "description": "A web-based simulation of an Android voice changer app for gamers, allowing real-time microphone audio modification with various character voice profiles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
